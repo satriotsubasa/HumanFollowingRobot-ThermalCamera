@@ -1,4 +1,4 @@
-# HumanFollowerThermal
+# HumanFollowingRobot-ThermalCamera
 In this project, the robot is carried out on an omni-directional robot platform.
 The human fetection is using AdaFruit AMG8833 thermal camera.
 Image processing will processed with single board computer Lattepanda.
